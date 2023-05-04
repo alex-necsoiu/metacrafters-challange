@@ -45,8 +45,7 @@ CrowdFunding is an open-source, flexible and scalable smart contract designed to
 1. Clone this repository
    
 ```shell
-git clone https://github.com/alex-necsoiu/pandora-nft
-```
+git clone https://github.com/alex-necsoiu/metacrafters-challange
 
 2. Install the Dependencies and Dotenv
 
